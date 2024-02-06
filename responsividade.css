@@ -1,0 +1,162 @@
+@media only screen and (min-width: 992px) and (max-width: 1400px){
+body {
+  margin: 0;
+  background-color: rgb(31, 29, 29);
+}
+header{
+  background: linear-gradient(to right, #800000, #9932cc);
+  color: rgb(241, 165, 165);
+  margin-top: 20px;    
+}
+html{
+  scroll-behavior: smooth;
+}
+h1{
+  font-size: 20px;
+  margin-left: 50px;
+  padding: 10px;    
+}
+button {
+  background-color: rgb(58, 19, 19);
+  color: rgb(160, 165, 165);
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  margin-left:50px;
+  margin-right: 10px; 
+  margin-bottom: 10px;
+  border-radius: 30px;
+}
+img {
+  margin-right: 10px;
+  margin-left: 30px;
+  border-radius: 10px;
+}
+figcaption {     
+  font-size: 15px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 0px; 
+  color: rgb(160, 165, 165);
+}
+li{
+  display: inline-block;
+  margin-right:100px;
+}
+body {
+  margin: 0;
+  background-color: rgb(31, 29, 29);
+}
+h2{
+  padding: 20px; 
+  background: linear-gradient(to right, #a0522d, #9932cc);   
+  margin-left: 50px;
+  margin-right:50px;
+  border-radius: 30px;
+  color: rgb(138, 185, 185);
+}
+h3{
+  padding: 10px; 
+  margin-left: 50px;
+  margin-right:50px;
+  border-radius: 30px;
+  background: linear-gradient(to right, black, #161616);
+  color: rgb(136, 160, 160);
+}
+.bolos{
+  background: linear-gradient(to right, #8a182e, #9932cc);
+}
+.salgados{
+  background: linear-gradient(to right, #a06723, #9932cc);
+}
+.lanches{
+  background: linear-gradient(to right, #128812, #9932cc);
+}
+.cafemagia{
+  overflow: hidden;
+  float: right; 
+  margin-right: 90px;
+  margin-top: -350px;
+  margin-left: -100px;
+  margin-bottom: 10px;
+  border: rgb(31, 29, 29);
+}
+p{
+  margin-left: 70px;
+  margin-right:220px;
+  color: rgb(160, 165, 165);
+  font-size: 15px; 
+  margin-bottom: 5px;
+}
+label{
+  margin-right: 1px;  
+  margin-left: -120px;
+  margin-top: 10px;
+  color: rgb(160, 165, 165);
+}
+.email{
+  margin-right: 1px;  
+  margin-left: 10px;
+  margin-top: 10px;
+  color: rgb(160, 165, 165);
+}
+.inputemail{
+  margin-right: 1px;  
+  margin-left: 20px;
+  margin-top: 10px;
+  color: rgb(160, 165, 165);
+}
+input {
+  margin-right: 1px;  
+  margin-left: 20px;
+  margin-top: 10px;
+  color: rgb(160, 165, 165);
+}
+form{
+  margin-top: 10px;   
+  margin-left: 220px;    
+}
+.assinar{
+  background-color: rgb(119, 74, 81);
+  color: white;
+  padding: 10px 15px;  
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px; 
+  margin-left: -120px;
+}
+table{  
+  margin-left:180px;
+  background: linear-gradient(to right, rgb(68, 60, 60), #5f3077);
+  border-spacing: 20px; 
+  border-radius: 10px;
+}
+th, td {     
+  color: rgb(160, 165, 165);
+}
+h3 {   
+  color: rgb(160, 165, 165);
+  font-size: 20px;    
+  padding-left: 30px;
+}
+.container {       
+  width: 100%;        
+}
+h4{
+  margin-left: -120px;
+  margin-bottom: 0px;
+  color: rgb(160, 165, 165);    
+}
+footer{
+  background: linear-gradient(to right, #800000, #9932cc);    
+  color: rgb(160, 165, 165);
+  font-size: 10px; 
+  padding-top: 25px; 
+  margin-bottom: 40px;
+}
+.rodape{
+  color: rgb(160, 165, 165);
+  font-size: 10px; /* Tamanho da fonte, ajuste conforme necessário */
+  margin-left: 100px;
+}
+}
